@@ -20,6 +20,12 @@ This repository hosts the team's active sub-projects, shared tools, and document
 - See `Start Here.md` for the general ML-parameterization workflow used across sub-projects.
 - Each sub-project folder contains its own README with project-specific setup and usage instructions.
 
+## Shared Tools & Guides
+
+| Guide | Description |
+|---|---|
+| [`integration_tools/FTorch_CAM_integration.md`](./integration_tools/FTorch_CAM_integration.md) | Step-by-step guide for coupling PyTorch ML emulators into CAM via FTorch on Derecho (the `ML Model → FTorch → CAM7` layer in step 4 of the workflow). |
+
 ## Contributing
 
 We welcome contributions from the team and collaborators. You can participate by:
